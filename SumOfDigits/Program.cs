@@ -14,7 +14,7 @@ namespace SumOfDigits
                 sum += n % 10;
                 n /= 10;
             }
-            Console.WriteLine("Thanks");
+            Console.WriteLine("No thanks!");
 	    Console.WriteLine("Thank you");
             Console.WriteLine("Test");
 
